@@ -7,10 +7,13 @@ sites:
     url: https://simplelogin.io
   - name: SimpleLogin API
     url: https://app.simplelogin.io/live
+    icon: https://simplelogin.io/logo.png
   - name: SimpleLogin MX1
-    url: http://mx1.simplelogin.co/live
+    url: https://mx1.simplelogin.co/live
+    icon: https://simplelogin.io/logo.png
   - name: SimpleLogin MX2
-    url: http://mx2.simplelogin.co/live
+    url: https://mx2.simplelogin.co/live
+    icon: https://simplelogin.io/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
