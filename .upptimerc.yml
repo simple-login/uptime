@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: uptime.simplelogin.io
   baseUrl: /uptime
-  logoUrl: https://simplelogin.io/logo.png
+  logoUrl: https://simplelogin.io/logo-square.svg
   name: SimpleLogin Uptime
   introTitle: "SimpleLogin server status."
   introMessage: SimpleLogin web and email service status
