@@ -22,19 +22,19 @@
     "url": "https://app.simplelogin.io/live",
     "icon": "https://simplelogin.io/logo.png",
     "slug": "simple-login-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 426,
-    "timeWeek": 341,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 355,
+    "timeDay": 383,
+    "timeWeek": 336,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2021-05-08": 0
+      "2021-05-08": 28
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://mx1.simplelogin.co/live",
     "icon": "https://simplelogin.io/logo.png",
     "slug": "simple-login-mx-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 431,
-    "timeWeek": 339,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 367,
+    "timeDay": 386,
+    "timeWeek": 334,
+    "timeMonth": 367,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2021-05-08": 0
+      "2021-05-08": 28
     }
   },
   {
