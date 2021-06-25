@@ -1,7 +1,7 @@
 url: https://mx2.simplelogin.co/live
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2021-06-24T23:13:02.096Z
+status: down
+code: 502
+responseTime: 273
+lastUpdated: 2021-06-25T18:52:03.667Z
 startTime: Fri Apr 30 2021 10:09:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
