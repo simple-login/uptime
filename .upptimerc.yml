@@ -18,8 +18,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: uptime.simplelogin.io
-  baseUrl: /uptime
+  cname: status.simplelogin.io
+  # baseUrl: /uptime
   logoUrl: https://simplelogin.io/logo-square.svg
   name: SimpleLogin Uptime
   introTitle: "SimpleLogin server status."
