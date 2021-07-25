@@ -24,11 +24,13 @@ status-website:
   name: SimpleLogin Uptime
   introTitle: "SimpleLogin server status."
   introMessage: SimpleLogin web and email service status
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
+  navbar:
+     - title: Home Page
+       href: markus.kinghol@outlook.de
+     - title: GitHub
+       href: https://github.com/simple-login
+     - title: Email Delay
+       href: https://chart-embed.service.eu.newrelic.com/herald/092fda96-5eb9-4928-ac26-33bb2f2d1e2f?height=800px&timepicker=true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
