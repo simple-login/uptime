@@ -28,7 +28,7 @@ status-website:
      - title: GitHub
        href: https://github.com/simple-login
      - title: Email Delay
-       href: https://chart-embed.service.eu.newrelic.com/herald/092fda96-5eb9-4928-ac26-33bb2f2d1e2f?height=800px&timepicker=true
+       href: https://chart-embed.service.eu.newrelic.com/herald/4543cfed-08a2-423c-abae-6f1d34de3673?height=600px&timepicker=true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
