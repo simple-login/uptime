@@ -26,7 +26,7 @@ status-website:
   introMessage: SimpleLogin web and email service status
   navbar:
      - title: Home Page
-       href: markus.kinghol@outlook.de
+       href: /
      - title: GitHub
        href: https://github.com/simple-login
      - title: Email Delay
