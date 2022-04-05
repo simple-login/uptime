@@ -9,11 +9,11 @@ sites:
     url: https://app.simplelogin.io/live
     icon: https://simplelogin.io/logo.png
   - name: SimpleLogin MX1
-    url: https://mx1.simplelogin.co/live
+    url: mx1.simplelogin.co
     icon: https://simplelogin.io/logo.png
     port: 25
   - name: SimpleLogin MX2
-    url: https://mx2.simplelogin.co/live
+    url: mx2.simplelogin.co
     icon: https://simplelogin.io/logo.png
     port: 25
 
