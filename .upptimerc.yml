@@ -11,9 +11,11 @@ sites:
   - name: SimpleLogin MX1
     url: https://mx1.simplelogin.co/live
     icon: https://simplelogin.io/logo.png
+    port: 25
   - name: SimpleLogin MX2
     url: https://mx2.simplelogin.co/live
     icon: https://simplelogin.io/logo.png
+    port: 25
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
