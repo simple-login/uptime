@@ -4,9 +4,9 @@
     "url": "https://simplelogin.io",
     "icon": "https://icons.duckduckgo.com/ip3/simplelogin.io.ico",
     "slug": "simple-login-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 756,
     "timeYear": 740,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2024-01-12": 17
     }
   },
