@@ -4,18 +4,19 @@
     "url": "https://simplelogin.io",
     "icon": "https://icons.duckduckgo.com/ip3/simplelogin.io.ico",
     "slug": "simple-login-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 736,
-    "timeDay": 674,
-    "timeWeek": 872,
-    "timeMonth": 776,
+    "timeDay": 655,
+    "timeWeek": 842,
+    "timeMonth": 771,
     "timeYear": 744,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-01-12": 17
     }
   },
