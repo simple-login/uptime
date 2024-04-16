@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 748,
-    "timeDay": 822,
-    "timeWeek": 850,
-    "timeMonth": 877,
+    "timeDay": 926,
+    "timeWeek": 882,
+    "timeMonth": 883,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2024-01-12": 17
@@ -26,17 +26,16 @@
     "slug": "simple-login-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 557,
-    "timeDay": 646,
-    "timeWeek": 651,
-    "timeMonth": 591,
+    "time": 556,
+    "timeDay": 616,
+    "timeWeek": 636,
+    "timeMonth": 592,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-04-15": 7,
       "2023-05-09": 37
     }
   }
