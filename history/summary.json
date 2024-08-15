@@ -24,19 +24,19 @@
     "url": "https://app.simplelogin.io/live",
     "icon": "https://simplelogin.io/logo.png",
     "slug": "simple-login-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 0,
-    "timeWeek": 544,
+    "timeDay": 553,
+    "timeWeek": 545,
     "timeMonth": 559,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-08-15": 0
+      "2024-08-15": 6
     }
   }
 ]
