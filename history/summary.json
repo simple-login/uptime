@@ -6,17 +6,16 @@
     "slug": "simple-login-landing-page",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 805,
-    "timeDay": 926,
-    "timeWeek": 960,
-    "timeMonth": 915,
-    "timeYear": 828,
+    "timeDay": 889,
+    "timeWeek": 948,
+    "timeMonth": 919,
+    "timeYear": 829,
     "dailyMinutesDown": {
-      "2024-10-31": 6,
       "2024-01-12": 17
     }
   },
@@ -27,17 +26,15 @@
     "slug": "simple-login-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
-    "timeDay": 551,
-    "timeWeek": 594,
-    "timeMonth": 573,
+    "timeDay": 502,
+    "timeWeek": 585,
+    "timeMonth": 571,
     "timeYear": 549,
-    "dailyMinutesDown": {
-      "2024-10-31": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
