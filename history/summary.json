@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 823,
-    "timeDay": 820,
-    "timeWeek": 801,
-    "timeMonth": 856,
-    "timeYear": 847,
+    "time": 824,
+    "timeDay": 1118,
+    "timeWeek": 849,
+    "timeMonth": 869,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2024-01-12": 17
     }
@@ -26,17 +26,16 @@
     "slug": "simple-login-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 550,
-    "timeDay": 537,
-    "timeWeek": 540,
-    "timeMonth": 574,
+    "timeDay": 568,
+    "timeWeek": 567,
+    "timeMonth": 580,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-12-27": 7,
       "2024-12-09": 26
     }
   }
