@@ -1,7 +1,7 @@
 url: https://app.simplelogin.io/live
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2025-03-03T13:19:04.483Z
+status: down
+code: 502
+responseTime: 694
+lastUpdated: 2025-03-03T13:37:08.328Z
 startTime: 2021-04-30T10:09:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
