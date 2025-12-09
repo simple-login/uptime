@@ -6,17 +6,16 @@
     "slug": "simple-login-landing-page",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 861,
-    "timeDay": 1091,
-    "timeWeek": 964,
-    "timeMonth": 877,
+    "timeDay": 908,
+    "timeWeek": 980,
+    "timeMonth": 873,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2025-12-08": 7,
       "2025-05-25": 43,
       "2025-01-30": 16
     }
@@ -28,21 +27,19 @@
     "slug": "simple-login-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 605,
-    "timeDay": 749,
-    "timeWeek": 626,
-    "timeMonth": 588,
+    "timeDay": 692,
+    "timeWeek": 649,
+    "timeMonth": 587,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-12-08": 7,
       "2025-05-25": 91,
       "2025-03-03": 49,
-      "2025-01-30": 37,
-      "2024-12-09": 26
+      "2025-01-30": 37
     }
   }
 ]
