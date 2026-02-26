@@ -4,18 +4,19 @@
     "url": "https://simplelogin.io",
     "icon": "https://icons.duckduckgo.com/ip3/simplelogin.io.ico",
     "slug": "simple-login-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 854,
+    "time": 853,
     "timeDay": 587,
     "timeWeek": 787,
     "timeMonth": 777,
     "timeYear": 847,
     "dailyMinutesDown": {
+      "2026-02-26": 1,
       "2025-05-25": 43
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://app.simplelogin.io/live",
     "icon": "https://simplelogin.io/logo.png",
     "slug": "simple-login-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +37,7 @@
     "timeMonth": 501,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2026-02-26": 0,
       "2025-05-25": 91,
       "2025-03-03": 49
     }
